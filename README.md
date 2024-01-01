@@ -1,7 +1,7 @@
-![logo](https://github.com/PosiGangapavani/PosiGangapavani/blob/main/SUV4.gif)
+
 <h1 align="center">Hi 👋, I'm Posi Ganga Pavani</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right alt="coding" width="400" src="https://github.com/PosiGangapavani/PosiGangapavani/blob/main/JXA0.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/PosiGangapavani/PosiGangapavani/blob/main/JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=posigangapavani&label=Profile%20views&color=0e75b6&style=flat" alt="posigangapavani" /> </p>
 
